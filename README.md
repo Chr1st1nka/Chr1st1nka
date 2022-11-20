@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Kristina
+- 👋 Hi, let's code together
 
 <!---
 Chr1st1nka/Chr1st1nka is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
